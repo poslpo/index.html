@@ -27,5 +27,6 @@ If you don't have Python installed, you can use Node.js and the http-server pack
 1. Install the http-server package globally by running the following command in your terminal:
      ```bash
      npm install --global http-server
-     
+
+```bash
      http-server
