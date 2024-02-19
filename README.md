@@ -28,5 +28,4 @@ If you don't have Python installed, you can use Node.js and the http-server pack
      ```bash
      npm install --global http-server
      http-server
-`bash
-    http-server
+     
